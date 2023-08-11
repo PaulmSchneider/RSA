@@ -10,4 +10,4 @@ Have Fun!
 
 ## How to Run 
 
-To run the program input 'python3 user_rsa.py' on the command line. If the program denies you premission, run 'chmod -x ./user_rsa.py' first then try again. 
+To run the program input "python3 user_rsa.py" on the command line. If the program denies you permission, run "chmod -x ./user_rsa.py" first then try again. 
