@@ -146,7 +146,7 @@ def factorize(n,e):
     for i in range(2,n-1):
         if n % i == 0:
             p = i 
-            q = n / p
+            q = n / p 
             d = Find_Private_Key_d(e, p, q)
             return d
     # for an element leading up to the value of n
